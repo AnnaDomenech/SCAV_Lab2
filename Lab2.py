@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-from __future__ import unicode_literals, print_function
-import argparse
-import sys
 import os
 from pathlib import Path
 import json, subprocess
